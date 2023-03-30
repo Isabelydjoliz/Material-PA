@@ -1,6 +1,6 @@
-algoritmo "quatrooperações"
+algoritmo "quatrooperaÃ§Ãµes"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -24,10 +24,10 @@ resulsu <- num1-num2
 resulm  <- num1*num2
 resuld  <- num1/num2
 
-// Saída
-escreval ("O resultado da soma é: ", resulso )
-escreval ("O resultado da subtração é: ", resulso)
-escreval ("O resultado da multiplicação é: ", resulm )
-escreval ("O resultado da divisão é: ", resuld)
+// SaÃ­da
+escreval ("O resultado da soma Ã©: ", resulso )
+escreval ("O resultado da subtraÃ§Ã£o Ã©: ", resulso)
+escreval ("O resultado da multiplicaÃ§Ã£o Ã©: ", resulm )
+escreval ("O resultado da divisÃ£o Ã©: ", resuld)
 
 fimalgoritmo
