@@ -1,6 +1,6 @@
 algoritmo "area do quadrado"
 // Diciplina : PA
-// Professora : CÌnta
+// Professora : C√≠nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -9,18 +9,18 @@ altu, larg, resula, resulp: real
 
 //ENTRADA
 inicio
-escreval ("Digite o valor do largura do ret‚ngulo: ")
+escreval ("Digite o valor do largura do ret√¢ngulo: ")
 leia (larg)
 
-escreval ("Digite o valor da altura do ret‚ngulo: ")
+escreval ("Digite o valor da altura do ret√¢ngulo: ")
 leia (altu)
 
 //PROCESSAMENTO
 resula <- altu * larg
 
 resulp <- altu*2 + larg*2
-// SaÌda
-escreval ("A ·rea do ret‚ngulo È: ", resula)
-escreval ("O perÌmero do ret‚ngulo È: ", resulp)
+// Sa√≠da
+escreval ("A √°rea do ret√¢ngulo √©: ", resula)
+escreval ("O per√≠mero do ret√¢ngulo √©: ", resulp)
 
 fimalgoritmo
