@@ -1,6 +1,6 @@
 algoritmo "combustivel"
 // Diciplina : PA
-// Professora : CÌnta
+// Professora : C√≠nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -11,18 +11,18 @@ dist,comb,med: real
 
 //ENTRADA
 inicio
-escreva ("Digite a dist‚ncia percorrida: ")
+escreva ("Digite a dist√¢ncia percorrida: ")
 leia (dist)
 
-escreval (" Escreva a quantidade de combustÌvel gasta: ")
+escreval (" Escreva a quantidade de combust√≠vel gasta: ")
 leia (comb)
 
 //PROCESSAMENTO
 med <- comb/dist
 
 
-// SaÌda
-escreval ("A mÈdia de combustÌvel gasta em mÈdiapor km È: ", med)
+// Sa√≠da
+escreval ("A m√©dia de combust√≠vel gasta em m√©diapor km √©: ", med)
 
 
 fimalgoritmo
