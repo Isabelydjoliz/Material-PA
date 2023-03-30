@@ -1,6 +1,6 @@
 algoritmo "mensalidade"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -11,7 +11,7 @@ mesp: caractere
 
 //ENTRADA
 inicio
-escreval ("Mês do pagamentro: ")
+escreval ("MÃªs do pagamentro: ")
 leia (mesp)
 
 escreval ("Valor damensalidade: ")
@@ -25,8 +25,8 @@ leia (diasat)
 mensatu <- (diasat*0.02*valorm)  + valorm
 
 
-// Saída
-escreval ("Sua mensalidade atualizada será de: ", mensatu )
+// SaÃ­da
+escreval ("Sua mensalidade atualizada serÃ¡ de: ", mensatu )
 
 
 fimalgoritmo
