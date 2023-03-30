@@ -1,6 +1,6 @@
 algoritmo "dollarpreal"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -14,7 +14,7 @@ inicio
 escreval ("Valor em dollar: ")
 leia (dol)
 
-escreval ("Valor da cotação: ")
+escreval ("Valor da cotaÃ§Ã£o: ")
 leia (cota)
 
 
@@ -23,8 +23,8 @@ leia (cota)
 rela <- (cota*dol)
 
 
-// Saída
-escreval ("O valor em real é: ", rela )
+// SaÃ­da
+escreval ("O valor em real Ã©: ", rela )
 
 
 fimalgoritmo
