@@ -1,6 +1,6 @@
 algoritmo "medianotas"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -30,8 +30,8 @@ leia (nota3)
 media <- (nota1+nota2+nota3)/3
 
 
-// Saída
-escreval (nome, "Sua média de notas é: ", media)
+// SaÃ­da
+escreval (nome, "Sua mÃ©dia de notas Ã©: ", media)
 
 
 fimalgoritmo
