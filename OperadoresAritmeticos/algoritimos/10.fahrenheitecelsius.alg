@@ -1,6 +1,6 @@
 algoritmo "CelsiuseFahrenheit"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -19,8 +19,8 @@ leia (tempc)
 tempf <- (9*tempc+160)/5
 
 
-// Saída
-escreval ("A temperatura em Fahrenheit é: ", tempf )
+// SaÃ­da
+escreval ("A temperatura em Fahrenheit Ã©: ", tempf )
 
 
 fimalgoritmo
