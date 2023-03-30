@@ -1,6 +1,6 @@
 algoritmo "salario"
 // Diciplina : PA
-// Professora : CÌnta
+// Professora : C√≠nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -14,7 +14,7 @@ inicio
 escreval ("Nome do vendedor: ")
 leia (nome)
 
-escreval (" Sal·rio fixo: ")
+escreval (" Sal√°rio fixo: ")
 leia (salfix)
 
 escreval ("Vendas mensais: ")
@@ -25,8 +25,8 @@ leia (vendas)
 salfim <- (15/100* vendas)  + salfix
 
 
-// SaÌda
-escreval (nome, "Seu sal·rio fixo È: ", salfix )
-escreval (nome, "e seu sal·rio final È de: ", salfim )
+// Sa√≠da
+escreval (nome, "Seu sal√°rio fixo √©: ", salfix )
+escreval (nome, "e seu sal√°rio final √© de: ", salfim )
 
 fimalgoritmo
