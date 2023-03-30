@@ -1,6 +1,6 @@
 algoritmo "porcentagem"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -21,8 +21,8 @@ leia (custo)
 porcentagem <- custo * 0.65
 
 venda <- porcentagem + custo
-// Saída
-escreval ("O valor da venda do produto é: ", venda)
+// SaÃ­da
+escreval ("O valor da venda do produto Ã©: ", venda)
 
 
 fimalgoritmo
