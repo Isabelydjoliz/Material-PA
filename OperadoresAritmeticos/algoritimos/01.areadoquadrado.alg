@@ -1,6 +1,6 @@
 algoritmo "area do quadrado"
 // Diciplina : PA
-// Professora : Cínta
+// Professora : CÃ­nta
 // Turma: A
 // Data : 02/03/2023
 // Nome : Isabely
@@ -15,7 +15,7 @@ leia (lado)
 //PROCESSAMENTO
 area <- lado*lado
 
-// Saída
-escreval ("A área do quadrado é: " ,area)
+// SaÃ­da
+escreval ("A Ã¡rea do quadrado Ã©: " ,area)
 
 fimalgoritmo
