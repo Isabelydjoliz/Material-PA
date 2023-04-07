@@ -1,0 +1,26 @@
+algoritmo "impostos"
+// Autor :Isabely
+// Data : 30/03/2023
+// Professora: cintia
+var
+custofa, custoimp, valorp, custofim: real
+
+inicio
+
+//entrada
+escreval ("Digite o custo de fábrica:")
+leia (custofa)
+
+//processamento
+
+custoimp <- custofa+(custofa*(45/100))
+valorp <- custoimp*(28/100)
+custofim <- custoimp+valorp
+
+
+//saída
+
+escreval ("O custo final com os impostos e o custo da distribuídora é de:", custofim)
+
+
+fimalgoritmo

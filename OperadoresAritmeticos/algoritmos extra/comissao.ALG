@@ -1,0 +1,30 @@
+algoritmo "comissao"
+// Autor :Isabely
+// Data : 30/03/2023
+// Professora: cintia
+var
+ comis, valorp, quant, comisv, vend:real
+inicio
+
+//entrada
+
+escreval ("Digite o valor da comissão:")
+leia (comis)
+escreval ("Digite o valor do produto:")
+leia (valorp)
+escreval ("Digite a quantidade do produto:")
+leia (quant)
+
+
+//processamento
+
+comisv <- quant*valorp*(5/100)
+vend <- quant*valorp
+
+
+//saída
+
+escreval ("O valor das vendas foi de:", vend)
+escreval ("O valor que foi ganho na comissão é de:", comisv)
+
+fimalgoritmo
